@@ -3,7 +3,7 @@ Experiment to build machine learning classifier to predict valid uk account numb
 
 Checking logic to construct datasets courtesy of https://github.com/bazerk/uk-modulus-checking/issues 
 
-Sample confusion matrix for 100000 row dataset using Keras:
+Sample confusion matrix for 10000 row dataset using Keras:
 
 array([[7837, 2072],
        [  19,   72]])
